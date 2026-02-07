@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Lobster/OFL.txt",
+      "sha1": "ef6f56afc74821a9d904a5c1a7595a6d2a4351c9"
+    },
+    {
+      "path": "src/assets/fonts/Lobster/lobster_regular.ttf",
+      "sha1": "120c751cd7a77174037c2409ab883ef7efc5edbb"
+    }
+  ]
+}

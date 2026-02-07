@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Foodgo</string>
+    <string name="facebook_app_id">998543730165511</string>
+<string name="fb_login_protocol_scheme">fb998543730165511</string>
+<string name="facebook_client_token">06e09a881ec090c6bea97d9c11a1b8a9</string>
+
+</resources>

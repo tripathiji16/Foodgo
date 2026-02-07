@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Privacy Policy - Foodgo</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      line-height: 1.6;
+      color: #333;
+      background-color: #fff; 
+    }
+
+    .header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid rgba(0,0,0,0.1);
+    }
+
+    .back-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 40px;
+      height: 40px;
+      cursor: pointer;
+      margin-right: 10px;
+      border-radius: 50%;
+    }
+    
+    .back-btn:active {
+      background-color: rgba(0,0,0,0.1);
+    }
+
+    svg {
+      width: 26px;
+      height: 26px;
+      fill: currentColor; 
+    }
+    h1 {
+      font-size: 22px;
+      margin: 0;
+      font-weight: 700;
+      font-family: 'Lobster-Regular', 'lobster_regular', sans-serif;
+    }
+
+    h3 {
+      margin-top: 24px;
+      color: #EF2A39; 
+      font-size: 18px;
+    }
+
+    p {
+      margin: 12px 0;
+      font-size: 15px;
+      opacity: 0.9;
+    }
+
+    ul {
+      margin: 8px 0 12px 20px;
+      font-size: 15px;
+      opacity: 0.9;
+    }
+
+    a {
+      color: #EF2A39;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid rgba(0,0,0,0.05);
+      font-size: 12px;
+      opacity: 0.6;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <div class="back-btn" onclick="goBack()">
+      <svg viewBox="0 0 512 512">
+        <path d="M328 112L184 256l144 144" style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:48px"/>
+      </svg>
+    </div>
+    <h1>Privacy Policy</h1>
+  </div>
+
+  <p><strong>Last updated:</strong> January 2026</p>
+
+  <p>Welcome to Foodgo! This Privacy Policy explains how we handle your information in our food ordering platform.</p>
+
+  <h3>Information We Collect</h3>
+  <ul>
+    <li>Device information (OS, version, device model)</li>
+    <li>App usage statistics and order history</li>
+    <li>Delivery addresses and payment preferences (stored locally)</li>
+  </ul>
+
+  <h3>How We Use Your Information</h3>
+  <p>
+    All collected information is used to improve your ordering experience. 
+    We prioritize storing data locally on your device whenever possible.
+  </p>
+
+  <h3>Security</h3>
+  <p>We use industry-standard security measures to protect your data. Your credit card details are tokenized and never stored in plain text.</p>
+
+  <h3>Contact</h3>
+  <p>
+    For questions about this privacy policy, contact <a href="mailto:support@foodgo.com">support@foodgo.com</a>.
+  </p>
+
+  <div class="footer">
+    &copy; 2026 Foodgo. All rights reserved.
+  </div>
+
+  <script>
+    function goBack() {
+      if (window.ReactNativeWebView) {
+        window.ReactNativeWebView.postMessage('GO_BACK');
+      }
+    }
+  </script>
+
+</body>
+</html>

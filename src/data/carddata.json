@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "title": "Cheeseburger",
+    "subtitle": "Juicy beef with cheese",
+    "imageUrl": "https://freepngimg.com/thumb/india/77412-cuisine-whopper-hamburger-king-vegetarian-india-veggie.png",
+    "ratings": 4.9,
+    "cost": "$3.50",
+    "type": "non-veg",
+    "category": "burger",
+    "details": "This classic cheeseburger features a well-seasoned beef patty, melted cheddar cheese, crisp lettuce, fresh tomato, and tangy pickles, all sandwiched between a fluffy sesame bun."
+  },
+  {
+    "id": 2,
+    "title": "Veggie Burger",
+    "subtitle": "Plant-based delight",
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/05/65/63/53/1000_F_565635317_dD4CPIbLDx0y0DNx8qwLPQUgFscoAJnk.webp",
+    "ratings": 4.7,
+    "cost": "$3.00",
+    "type": "veg",
+    "category": "burger",
+    "details": "A hearty veggie burger made from a blend of pea protein, grains, and vegetables. It’s topped with a light mayonnaise, fresh lettuce, tomato, and a soft whole-wheat bun."
+  },
+  {
+    "id": 3,
+    "title": "Chicken Burger",
+    "subtitle": "Grilled chicken breast",
+    "imageUrl": "https://freepngimg.com/thumb/burger/5-2-burger-png-thumb.png",
+    "ratings": 4.6,
+    "cost": "$4.00",
+    "type": "non-veg",
+    "category": "burger",
+    "details": "Grilled to perfection, this chicken burger features a tender, seasoned breast fillet topped with crisp lettuce and a smooth mayonnaise, all wrapped in a soft, lightly toasted bun."
+  },
+  {
+    "id": 4,
+    "title": "Jalapeno Burger",
+    "subtitle": "Beef with a kick",
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/15/30/48/03/1000_F_1530480326_Cy9vQCWXs9vYMCXQ9s2e2nJAyzAv4gi3.webp",
+    "ratings": 4.5,
+    "cost": "$4.75",
+    "type": "non-veg",
+    "category": "burger",
+    "details": "This spicy jalapeno burger combines a juicy beef patty with slices of fresh jalapeno, pepper jack cheese, and crisp onions. It's got the perfect heat to flavor ratio."
+  },
+  {
+    "id": 5,
+    "title": "Turkey Classic Burger",
+    "subtitle": "Lean turkey patty",
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/15/96/41/37/1000_F_1596413743_wZZL5Qg0pXtP5qIAah6NZTCdSn7SVHmg.webp",
+    "ratings": 4.4,
+    "cost": "$4.20",
+    "type": "non-veg",
+    "category": "classic burger",
+    "details": "A healthier classic: this turkey burger has a lean turkey patty, fresh lettuce, tomato, and a light garlic-herb spread. It’s served in a soft whole-grain bun."
+  },
+  {
+    "id": 6,
+    "title": "Bacon & Cheese",
+    "subtitle": "Burger(Crispy bacon) ",
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/15/84/35/75/1000_F_1584357544_2DCX8jvAT5BEceoMikvsldr7e3CHtTJv.webp",
+    "ratings": 3.8,
+    "cost": "$5.00",
+    "type": "non-veg",
+    "category": "burger",
+    "details": "Loaded with bacon strips, melted cheddar, and a juicy beef patty, this burger is a decadent treat. The smoky bacon flavor pairs perfectly with the richness of cheese."
+  },
+  {
+    "id": 7,
+    "title": "Mini Slider Trio",
+    "subtitle": "Three small burgers",
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/17/89/55/35/1000_F_1789553522_2CurZanZ7WhA04mWFokB2lvCXQwGxUWz.webp",
+    "ratings": 4.3,
+    "cost": "$6.00",
+    "type": "non-veg",
+    "category": "slider",
+    "details": "A set of three mini sliders featuring bite-sized beef patties, melted cheese, and a tiny sesame bun. Perfect for sharing, snacking, or as an appetizer."
+  },
+  {
+    "id": 8,
+    "title": "Veggie Slider Duo",
+    "subtitle": "Plant-based snack pair",
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/17/60/59/15/1000_F_1760591585_1gi4zAXuWOF4AeBDrb9Wj3IHTVcU4RU1.webp",
+    "ratings": 4.2,
+    "cost": "$8.50",
+    "type": "veg",
+    "category": "slider",
+    "details": "This duo of veggie sliders comes with plant-protein patties, fresh greens, tomato, and herby sauce. They’re a compact, flavor-packed snack ideal for lighter appetites."
+  },
+  {
+    "id": 9,
+    "title": "Combo Burger Meal",
+    "subtitle": "Burger + fries + drink",
+    "imageUrl": "https://as1.ftcdn.net/v2/jpg/17/72/82/20/1000_F_1772822021_qrzNvt0Evvscpad3uWVrNb0fFINlbyxD.jpg",
+    "ratings": 4.7,
+    "cost": "$10.50",
+    "type": "non-veg",
+    "category": "combo",
+    "details": "This classic combo meal includes a cheeseburger, a side of hot, crispy fries, and a chilled soft drink. A go-to package that’s complete and satisfying."
+  },
+  {
+    "id": 10,
+    "title": "Chicken Combo Meal",
+    "subtitle": "Grilled burger + drink",
+    "imageUrl": "https://freepngimg.com/thumb/burger/5-2-burger-png-thumb.png",
+    "ratings": 2.6,
+    "cost": "$8.00",
+    "type": "non-veg",
+    "category": "combo",
+    "details": "Includes a grilled chicken burger paired with a generous portion of golden fries and a cold soda. Ideal for a balanced, flavorful meal with protein and carbs covered."
+  },
+  {
+    "id": 11,
+    "title": "Veggie Combo Meal",
+    "subtitle": "Meat-free delight",
+    "imageUrl": "https://as1.ftcdn.net/v2/jpg/17/85/16/56/1000_F_1785165658_KPPB6EGtrKoEOj8feSIFK8V5yvmALsQj.webp",
+    "ratings": 4.5,
+    "cost": "$12.50",
+    "type": "veg",
+    "category": "combo",
+    "details": "This combo features a plant-based burger, crispy sweet potato fries, and a refreshing iced tea. It’s crafted for health-conscious diners."
+  },
+  {
+    "id": 12,
+    "title": "BBQ Bacon Classic",
+    "subtitle": "Saucy & smoky",
+    "imageUrl": "https://as1.ftcdn.net/v2/jpg/15/52/19/32/1000_F_1552193238_Q1aykSgHzFj9reaW9IHQpND1tHwsEzkq.webp",
+    "ratings": 4.8,
+    "cost": "$5.75",
+    "type": "non-veg",
+    "category": "classic burger",
+    "details": "A rich BBQ bacon classic — juicy beef patty, crispy bacon, smoky barbecue sauce, and melted cheese all served in a toasted brioche bun."
+  },
+  {
+    "id": 13,
+    "title": "Cheesy Slider Trio",
+    "subtitle": "Triple cheese minis",
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/17/89/55/35/1000_F_1789553522_2CurZanZ7WhA04mWFokB2lvCXQwGxUWz.webp",
+    "ratings": 4.3,
+    "cost": "$12.75",
+    "type": "non-veg",
+    "category": "slider",
+    "details": "Three mini sliders each with melted cheddar cheese, juicy patties, and soft mini buns. A perfect shareable snack for cheese lovers."
+  },
+  {
+    "id": 14,
+    "title": "Blast Combo Feast",
+    "subtitle": "Burger, rings & drink",
+    "imageUrl": "https://as1.ftcdn.net/v2/jpg/16/34/16/38/1000_F_1634163823_Mr4Z8bgy7pvSE2NkvU8rgFuaBYzx6wO3.webp",
+    "ratings": 4.9,
+    "cost": "$16.00",
+    "type": "non-veg",
+    "category": "combo",
+    "details": "This ultimate combo brings together a beef burger, golden onion rings, crispy fries, and a soft drink. It’s curated for those who want a full-on classic fast food indulgence."
+  },
+  {
+    "id": 15,
+    "title": "Chicken 2x Burger",
+    "subtitle": "Spicy buffalo sauce",
+    "imageUrl": "https://freepngimg.com/thumb/burger/5-2-burger-png-thumb.png",
+    "ratings": 4.5,
+    "cost": "$5.40",
+    "type": "non-veg",
+    "category": "burger",
+    "details": "This burger features a crispy chicken filet tossed in spicy buffalo sauce, topped with cool ranch dressing and crisp lettuce."
+  },
+  {
+    "id": 16,
+    "title": "Cheese 2x Classic",
+    "subtitle": "Two layers of cheese",
+    "imageUrl": "https://as1.ftcdn.net/v2/jpg/15/64/74/54/1000_F_1564745487_3iFgRYn3XHw9EpyfsWZLe3Rk1dDmkayl.webp",
+    "ratings": 4.8,
+    "cost": "$5.90",
+    "type": "non-veg",
+    "category": "classic burger",
+    "details": "A double-layered cheeseburger with two melted cheese slices, a juicy beef patty, and fresh greens. The extra cheese makes this a rich, creamy, and comforting classic."
+  }
+]
