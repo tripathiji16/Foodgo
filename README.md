@@ -163,6 +163,15 @@ All contexts are properly integrated and provide hooks for easy consumption:
 
 ---
 
+### Design Credits
+The UI design used in this project is based on the following Figma design.
+
+Figma File: [Foodgo](https://www.figma.com/community/file/1412628679075508689/foodgo)
+
+This repository contains only the code implementation for learning and practice.
+
+---
+
 ## 📸 App Screenshots/Screen Recording
 
 https://drive.google.com/file/d/1iqYQOJwWKClk5j9_rz406ZkU3-XOTgII/view?usp=drive_link
